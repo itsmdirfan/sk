@@ -1,0 +1,169 @@
+.heading{
+    margin: 0 6% 0 6%;
+}
+
+.h{
+    font-family: 'Segoe UI';
+    color: rgba(0, 0, 0, 0.71);
+    text-align: center;
+    font-weight: 100;
+    line-height: 80px;
+    font-size: 2.7em;
+}
+.im{
+    width: 100%;
+}
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+    font-style: italic;
+}
+
+.text{
+    background: linear-gradient(to top, rgba(4, 4, 4, 0.701), rgba(0, 0, 0, 0));
+    position: absolute;
+    bottom: 0px;
+    
+    width: 100%;
+}
+
+.lcs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ho{
+    margin: 3px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+#like{
+    height: 1px;
+}
+
+#comment{
+    height: 1px;
+}
+
+#share{
+    height: 1px;
+}
+
+#like:hover{
+    color: rgb(241, 69, 69) ;
+    background: rgba(255, 0, 0, 0.395);
+    -webkit-filter: none;
+    filter: none;
+}
+
+#comment:hover{
+    color: rgb(241, 69, 69) ;
+    background: rgba(255, 0, 0, 0.395);
+    -webkit-filter: none;
+    filter: none;
+}
+
+#share:hover{
+    color: rgb(241, 69, 69) ;
+    background: rgba(255, 0, 0, 0.395);
+    -webkit-filter: none;
+    filter: none;
+}
+
+.row{
+    margin: 0 6% 0 6%;
+    font-family: sans-serif;
+}
+
+.left {
+    width: 80%;
+    float: left;
+}
+
+.right {
+    width: 20%;
+    float: right;
+}
+
+.writer{
+    background: aliceblue;
+    margin: 5%;
+    padding: 2%;
+    display: flex;
+}
+
+.round{
+    display: flex;
+    width:70px;
+    height:70px;
+    background-size:contain;
+    background-position:center;
+    border-radius:50%;
+}
+
+.name{
+    padding: 1%;
+    font-size: 1.2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gap{
+    width: 58%;
+}
+
+.follow{
+    margin: 3px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+}
+
+.follow:hover{
+    color: rgb(241, 69, 69) ;
+    background: rgba(255, 0, 0, 0.395);
+}
+
+.aa{
+    margin: 3px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+}
+
+.aa:hover{
+    color: rgb(241, 69, 69) ;
+    background: rgba(255, 0, 0, 0.395);
+}
+
+.container1 {
+    position: relative;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-style:oblique;
+}
+
+.text1 {
+    background: linear-gradient(to top, rgba(4, 4, 4, 0.701), rgba(0, 0, 0, 0));
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.main{
+    font-family: 'Segoe UI';
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.71);
+}
+
