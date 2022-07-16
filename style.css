@@ -121,7 +121,7 @@
 
 .follow{
     height: 2em;
-    margin: 3px;
+    margin: 2% 3px 3px 3px;
     padding: 3px;
     display: flex;
     align-items: center;
@@ -135,7 +135,7 @@
 }
 
 .aa{
-    margin: 3px;
+    margin: 2% 3px 3px 3px;
     height: 2em;
     padding: 3px;
     display: flex;
