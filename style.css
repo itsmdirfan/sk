@@ -7,7 +7,7 @@
     color: rgba(0, 0, 0, 0.71);
     text-align: center;
     font-weight: 100;
-    line-height: 80px;
+    line-height: 2em;
     font-size: 2.7em;
 }
 .im{
@@ -120,8 +120,9 @@
 }
 
 .follow{
+    height: 2em;
     margin: 3px;
-    padding: 15px;
+    padding: 3px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -135,7 +136,8 @@
 
 .aa{
     margin: 3px;
-    padding: 15px;
+    height: 2em;
+    padding: 3px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -166,4 +168,5 @@
     font-size: 1.2em;
     color: rgba(0, 0, 0, 0.71);
 }
+
 
